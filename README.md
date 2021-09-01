@@ -1,2 +1,2 @@
-# neuroplates..github.io
+# neuroplates.github.io
 ravi website - neuroplates.com
